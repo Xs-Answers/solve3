@@ -1,0 +1,26 @@
+{
+  "input": "launch_capacity_adjusted_2025_2100.csv",
+  "output": "l18_outputs\\run_07_combined.csv",
+  "start_year": 2025,
+  "end_year": 2150,
+  "launch_col": "launches_eff_int",
+  "rounding": "round",
+  "params": {
+    "dv_base_kmps": 14.917,
+    "dv_geo_kmps": 4.693,
+    "v_eq_kmps": 0.465,
+    "g0_mps2": 9.81,
+    "isp_v0_s": 380.0,
+    "isp_vmax_s": 400.0,
+    "isp_sl0_s": 330.0,
+    "isp_slmax_s": 340.0,
+    "k_I": 0.07,
+    "isp_ref_year": 2026,
+    "clamp_isp": true,
+    "k_heavy": 1.2,
+    "k_shuttle": 0.15,
+    "x_2050_ton": 125.0,
+    "g_r": 0.08,
+    "surface_isp": "SL"
+  }
+}

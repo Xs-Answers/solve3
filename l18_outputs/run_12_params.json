@@ -1,0 +1,18 @@
+{
+  "dv_base_kmps": 14.917,
+  "dv_geo_kmps": 4.693,
+  "v_eq_kmps": 0.465,
+  "g0_mps2": 9.81,
+  "isp_v0_s": 380.0,
+  "isp_vmax_s": 400.0,
+  "isp_sl0_s": 330.0,
+  "isp_slmax_s": 350.0,
+  "k_I": 0.04,
+  "isp_ref_year": 2026,
+  "clamp_isp": true,
+  "k_heavy": 0.6,
+  "k_shuttle": 0.35,
+  "x_2050_ton": 100.0,
+  "g_r": 0.08,
+  "surface_isp": "V"
+}
